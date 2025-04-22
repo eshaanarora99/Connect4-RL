@@ -42,4 +42,4 @@ DQN_trained.h5 - DQN-trained model by Eshaan — Eshaan
 
 M2.h5 - Baseline model — Nico
 
-M2_PG_trained.h5 - Nico’s PG-trained version of M2 — Nico
+M2_PG_trained.h5 - Nico’s PG-trained version of M2 — Nico (See Slack Not on github yet - I will add tmrw as I need to use GitHub LFS)
