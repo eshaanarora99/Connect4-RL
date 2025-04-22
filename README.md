@@ -43,9 +43,3 @@ DQN_trained.h5 - DQN-trained model by Eshaan — Eshaan
 M2.h5 - Baseline model — Nico
 
 M2_PG_trained.h5 - Nico’s PG-trained version of M2 — Nico
-
-M3.h5, M4.h5, M5.keras - Models contributed by Sonali
-
-M6.h5, M7.keras - Models contributed by Utkarsh
-
-M8.keras (CNN), M9.keras (Transformer) - Models contributed by Ronak
